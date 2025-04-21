@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukclay&label=Profile%20views&color=0e75b6&style=flat" alt="mukclay" /> </p>
 
+- 🎓 I'm currently studying **Informatics Engineering**
+
 - 👨‍💻 All of my projects are available at [https://mukclay.github.io/portfolio](https://mukclay.github.io/portfolio)
+
+- 📚 Open to collaboration and learning opportunities
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukclay&show_icons=true&locale=en&layout=compact" alt="mukclay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukclay&show_icons=true&locale=en" alt="mukclay" /></p>
-
